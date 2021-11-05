@@ -15,9 +15,6 @@ User can create, update and delete items.
 
 ### Executing program
 
--   How to run the program
--   Step-by-step bullets
-
 ```
 npm install
 cd todo-app
