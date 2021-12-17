@@ -17,6 +17,5 @@ User can create, update and delete items.
 
 ```
 npm install
-cd todo-app
 npm start
 ```
